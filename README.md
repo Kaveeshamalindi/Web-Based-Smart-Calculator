@@ -6,7 +6,12 @@ It supports basic arithmetic operations with a clean UI, keyboard input, and res
 ---
 
 ## 🚀 Live Demo
-Once hosted via GitHub Pages: https://kaveeshamalindi.github.io/Web-Based-Smart-Calculator/
+**Once hosted via GitHub Pages**: https://kaveeshamalindi.github.io/Web-Based-Smart-Calculator/
+<br> <br>
+
+<p align="center">
+  <img src="Images/img2.png" width="800">
+</p>
 
 ---
 

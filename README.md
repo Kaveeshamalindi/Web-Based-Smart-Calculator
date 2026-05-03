@@ -1,7 +1,6 @@
 # 🧮 Smart Calculator 
 
-A simple and modern calculator web application built using **HTML**, **CSS**, and **JavaScript**.
-It supports basic arithmetic operations with a clean UI, keyboard input, and responsive design.
+A simple and modern calculator web application built using **HTML**, **CSS**, and **JavaScript**. It supports basic arithmetic operations with a clean UI, keyboard input, and responsive design.
 
 ---
 
@@ -52,6 +51,7 @@ calculator-project/
 ├── index.html        # Main HTML file
 ├── style.css         # Styling file
 ├── script.js         # JavaScript logic
+├── Images            # UI
 └── README.md         # Project documentation
 ```
 
